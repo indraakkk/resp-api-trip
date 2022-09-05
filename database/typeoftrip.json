@@ -1,0 +1,34 @@
+[
+    {
+        "type": "MICE tourism",
+        "category": "Corporate Travel"
+    },
+    {
+        "type": "Training",
+        "category": "Corporate Travel"
+    },
+    {
+        "type": "Short-term work contract",
+        "category": "Corporate Travel"
+    },
+    {
+        "type": "Short breaks",
+        "category": "Leisure Travel"
+    },
+    {
+        "type": "City breaks",
+        "category": "Leisure Travel"
+    },
+    {
+        "type": "Countryside breaks",
+        "category": "Leisure Travel"
+    },
+    {
+        "type": "Holidays",
+        "category": "Leisure Travel"
+    },
+    {
+        "type": "Special events",
+        "category": "Leisure Travel"
+    }
+]
