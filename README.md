@@ -57,6 +57,12 @@ public function createApplication()
 }
 ```
 
+seed data
+
+```cli
+php artisan db:seed
+```
+
 change env to testing
 
 ```cli
